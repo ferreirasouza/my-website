@@ -1,0 +1,54 @@
+@import "compass/css3"
+@import "compass/utilities/general/clearfix"
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300|Raleway:400,600,700|Pacifico)
+
+@import "one-page-scroll"
+@import "mixins"
+@import "type"
+@import "animate"
+
+@import "partials/home"
+@import "partials/slides"
+@import "partials/contact"
+@import "partials/nav"
+@import "partials/settings"
+
+@import "vendor/font-awesome.min"
+@import "no-js"
+
+html
+    font-size: 62.5%
+
+body
+    background: url(../img/background.jpg) #000 center fixed no-repeat
+    background-size: 150%
+    +background-size(cover)
+
++text-highlight
+    background: rgb(255, 255, 255)
+
+section
+    overflow: hidden
+    z-index: 3
+
+.main
+    z-index: 1100 !important
+
+.icon
+    position: absolute
+    top: 15px
+    left: 15px
+
+    span
+        display: block
+        font-family: $cursive
+        color: #fff
+        @include font-size(18)
+        @include transition(all, 400ms)
+
+.hide
+    position: absolute
+    left: -9999px
+    top: -9999px
+

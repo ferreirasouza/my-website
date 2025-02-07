@@ -1,0 +1,15 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <title>estudo 1 - javaScript - getElementById </title>
+	<meta charset="utf-8" /> <!--aqui eu defino o site compativel com o idioma portugues-->
+    <script src="js/functions.js"></script> <!--aqui eu chamo o js responsável pela funcão-->
+</head>
+<body>
+    <img id="icone" src="imgs/a.jpg" /> <!--aqui é definido a imagem padrão, e dado um ID para este conteiner!-->
+    <span onmouseover="mudaFoto('imgs/b.jpg')"><img src="imgs/mam-lifecycle.png" width="100" onmouseout="mudaFoto('imgs/a.jpg')"></span>
+    <!--quando o mouse passa em cima do span, a função mudaFoto é executada e "imgs/b.jpg" é o novo parametro da função.--> 
+    <!--quando o mouse sai de cima, a função "mudaFoto recebe outro parametro"-->
+</body>
+</html>
