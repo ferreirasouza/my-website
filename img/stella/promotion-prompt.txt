@@ -1,0 +1,10 @@
+Tool: built-in image_gen (no CLI fallback).
+Output: stella-promotional.png
+Inputs: title-screen-original.png (character reference), gameplay-original.png (letter style reference).
+
+Use case: identity-preserve / promotional artwork polish.
+Asset type: landscape website promotional illustration for the existing educational spelling game "Spell it Stella".
+Input images: Image 1 is the original title screen, the primary edit target and character identity reference. Image 2 is the original gameplay screen, supporting reference for colorful spotted letters.
+Primary request: re-illustrate the title screen as a polished, crisp, high-resolution landscape promotional artwork, approximately 1536x1024. Faithfully preserve Stella: a friendly bright yellow five-pointed star, two large oval black-and-white eyes with delicate eyelashes, arched eyebrows and a simple smiling mouth. Preserve the original colorful soft toy letter aesthetic, with colorful polka dots and rounded shapes. Keep her child-friendly proportions and identity; do not add limbs, clothing or accessories.
+Scene: sunny blue sky gently fading to pale blue, soft lush green grass along bottom. Stella fills the left/central area; colorful letters L, F, B as in the original clustered near her base. Beautiful clean stylized 3D illustration, soft rounded forms, balanced lighting, smooth edges, subtle shadows, warm welcoming mood. Improve original low-resolution outlines and dated noisy textures, retain bright cheerful yellow/blue/green palette. Use the whole frame; no borders or device mockups.
+Text: no title, no text beyond the three decorative letters L F B. Remove original PLAY UI and title lettering; website will supply the accessible title outside this image. No other characters, no app-store badges, no invented gameplay. This is promotional artwork, not a redesigned game screenshot.

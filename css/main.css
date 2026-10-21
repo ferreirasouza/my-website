@@ -4480,18 +4480,3 @@ section {
   left: -9999px;
   top: -9999px;
 }
-
-.responsive-container-video {
-    position: relative;
-    overflow: hidden;
-    padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
-}
-
-.responsive-container-video iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-
