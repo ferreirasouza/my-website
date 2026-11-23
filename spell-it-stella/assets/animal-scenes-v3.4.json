@@ -1,0 +1,2899 @@
+{
+  "version": "3.4.0",
+  "technique": "12 articulated raster poses per animal with native choreography and scenery",
+  "scenes": [
+    {
+      "id": "avestruz_obj",
+      "word": "OSTRICH",
+      "resource": "art/scenes-v3.4/avestruz_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.3,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.3,
+          "end": 2,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "cachorro_obj",
+      "word": "PUPPY",
+      "resource": "art/scenes-v3.4/cachorro_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.2,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.2,
+          "end": 1.9,
+          "frames": [
+            4,
+            5,
+            6,
+            5
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.9,
+          "end": 2.3,
+          "frames": [
+            7,
+            8
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.3,
+          "end": 3.5,
+          "frames": [
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "coelho_obj",
+      "word": "RABBIT",
+      "resource": "art/scenes-v3.4/coelho_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.2,
+          "cycleSeconds": 0.6,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.2,
+          "end": 2.1,
+          "frames": [
+            4,
+            5,
+            6
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.1,
+          "end": 2.7,
+          "frames": [
+            7,
+            8,
+            9
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.7,
+          "end": 3.5,
+          "frames": [
+            10,
+            11,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "bezerro_obj",
+      "word": "CALF",
+      "resource": "art/scenes-v3.4/bezerro_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.2,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.2,
+          "end": 2.3,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.3,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "gato_obj",
+      "word": "KITTY",
+      "resource": "art/scenes-v3.4/gato_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.2,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.2,
+          "end": 2.3,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.3,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "pato_obj",
+      "word": "DUCK",
+      "resource": "art/scenes-v3.4/pato_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.2,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.2,
+          "end": 2,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2,
+          "end": 3.2,
+          "frames": [
+            8,
+            9,
+            10
+          ],
+          "loop": true
+        },
+        {
+          "start": 3.2,
+          "end": 3.5,
+          "frames": [
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "pintinho_obj",
+      "word": "CHICK",
+      "resource": "art/scenes-v3.4/pintinho_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.1,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.1,
+          "end": 2.2,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.2,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "racoon_obj",
+      "word": "RACCOON",
+      "resource": "art/scenes-v3.4/racoon_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.1,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.1,
+          "end": 2.3,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.3,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "hamster_obj",
+      "word": "HAMSTER",
+      "resource": "art/scenes-v3.4/hamster_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.15,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.15,
+          "end": 2.35,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.35,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "beijaflor_obj",
+      "word": "HUMMINGBIRD",
+      "resource": "art/scenes-v3.4/beijaflor_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.2,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.2,
+          "end": 1.9,
+          "frames": [
+            4,
+            5
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.9,
+          "end": 2.4,
+          "frames": [
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.4,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "preguica_obj",
+      "word": "SLOTH",
+      "resource": "art/scenes-v3.4/preguica_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.65,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.65,
+          "end": 2.25,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.25,
+          "end": 3.15,
+          "frames": [
+            8,
+            9,
+            8,
+            9
+          ],
+          "loop": false
+        },
+        {
+          "start": 3.15,
+          "end": 3.5,
+          "frames": [
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "papagaio_obj",
+      "word": "PARROT",
+      "resource": "art/scenes-v3.4/papagaio_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.2,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.2,
+          "end": 1.9,
+          "frames": [
+            4,
+            5,
+            6
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.9,
+          "end": 2.9,
+          "frames": [
+            7,
+            8,
+            9
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.9,
+          "end": 3.5,
+          "frames": [
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "galo_obj",
+      "word": "HEN",
+      "resource": "art/scenes-v3.4/galo_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.15,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.15,
+          "end": 2.1,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.1,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "tatu_obj",
+      "word": "ARMADILLO",
+      "resource": "art/scenes-v3.4/tatu_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.3,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true,
+          "cycleSeconds": 0.55
+        },
+        {
+          "start": 1.3,
+          "end": 2.4,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": true,
+          "cycleSeconds": 0.55
+        },
+        {
+          "start": 2.4,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "girafa_obj",
+      "word": "GIRAFFE",
+      "resource": "art/scenes-v3.4/girafa_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.15,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.15,
+          "end": 2.25,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.25,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "suricato_obj",
+      "word": "MEERKAT",
+      "resource": "art/scenes-v3.4/suricato_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.1,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.1,
+          "end": 1.65,
+          "frames": [
+            4,
+            5
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.65,
+          "end": 2.3,
+          "frames": [
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.3,
+          "end": 2.9,
+          "frames": [
+            8,
+            9
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.9,
+          "end": 3.5,
+          "frames": [
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "ovelha_obj",
+      "word": "SHEEP",
+      "resource": "art/scenes-v3.4/ovelha_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.15,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.15,
+          "end": 2.1,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.1,
+          "end": 3.1,
+          "frames": [
+            8,
+            9,
+            8,
+            9,
+            10
+          ],
+          "loop": false
+        },
+        {
+          "start": 3.1,
+          "end": 3.5,
+          "frames": [
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "lobo_obj",
+      "word": "WOLF",
+      "resource": "art/scenes-v3.4/lobo_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.25,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.25,
+          "end": 2.05,
+          "frames": [
+            4,
+            5,
+            6
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.05,
+          "end": 2.6,
+          "frames": [
+            7,
+            8
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.6,
+          "end": 3.5,
+          "frames": [
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "cavalo_obj",
+      "word": "HORSE",
+      "resource": "art/scenes-v3.4/cavalo_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.4,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.4,
+          "end": 1.9,
+          "frames": [
+            4,
+            5
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.9,
+          "end": 2.5,
+          "frames": [
+            6,
+            7,
+            8
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.5,
+          "end": 3.5,
+          "frames": [
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "sapo_obj",
+      "word": "FROG",
+      "resource": "art/scenes-v3.4/sapo_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 0.65,
+          "frames": [
+            0,
+            1,
+            2
+          ],
+          "loop": false
+        },
+        {
+          "start": 0.65,
+          "end": 1.85,
+          "frames": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.85,
+          "end": 2.35,
+          "frames": [
+            7,
+            8
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.35,
+          "end": 3.5,
+          "frames": [
+            9,
+            10,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "abelha_obj",
+      "word": "BEE",
+      "resource": "art/scenes-v3.4/abelha_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.1,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.1,
+          "end": 1.65,
+          "frames": [
+            4,
+            5
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.65,
+          "end": 2.4,
+          "frames": [
+            6,
+            7,
+            8
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.4,
+          "end": 3.5,
+          "frames": [
+            9,
+            10,
+            11,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "canguru_obj",
+      "word": "KANGAROO",
+      "resource": "art/scenes-v3.4/canguru_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 2.1,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true,
+          "cycleSeconds": 0.7
+        },
+        {
+          "start": 2.1,
+          "end": 2.55,
+          "frames": [
+            4,
+            5,
+            6
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.55,
+          "end": 3.2,
+          "frames": [
+            7,
+            8,
+            9,
+            8,
+            9
+          ],
+          "loop": false
+        },
+        {
+          "start": 3.2,
+          "end": 3.5,
+          "frames": [
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "porco_espinho_obj",
+      "word": "PORCUPINE",
+      "resource": "art/scenes-v3.4/porco_espinho_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1,
+          "end": 1.7,
+          "frames": [
+            4,
+            5
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.7,
+          "end": 2.3,
+          "frames": [
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.3,
+          "end": 3.1,
+          "frames": [
+            8,
+            9,
+            10
+          ],
+          "loop": true
+        },
+        {
+          "start": 3.1,
+          "end": 3.5,
+          "frames": [
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "koala_obj",
+      "word": "KOALA",
+      "resource": "art/scenes-v3.4/koala_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.4,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.4,
+          "end": 2.2,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.2,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "tartaruga_obj",
+      "word": "TURTLE",
+      "resource": "art/scenes-v3.4/tartaruga_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.3,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.3,
+          "end": 2,
+          "frames": [
+            4,
+            5,
+            6
+          ],
+          "loop": false
+        },
+        {
+          "start": 2,
+          "end": 2.3,
+          "frames": [
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.3,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "macaco_obj",
+      "word": "MONKEY",
+      "resource": "art/scenes-v3.4/macaco_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.4,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.4,
+          "end": 2.1,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.1,
+          "end": 3.1,
+          "frames": [
+            8,
+            9,
+            10
+          ],
+          "loop": false
+        },
+        {
+          "start": 3.1,
+          "end": 3.5,
+          "frames": [
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "pinguin_obj",
+      "word": "PENGUIN",
+      "resource": "art/scenes-v3.4/pinguin_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1,
+          "end": 1.5,
+          "frames": [
+            4,
+            5
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.5,
+          "end": 2.7,
+          "frames": [
+            6,
+            7,
+            8
+          ],
+          "loop": true
+        },
+        {
+          "start": 2.7,
+          "end": 3.5,
+          "frames": [
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "leao_obj",
+      "word": "LION",
+      "resource": "art/scenes-v3.4/leao_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.1,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.1,
+          "end": 1.9,
+          "frames": [
+            4,
+            5,
+            6
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.9,
+          "end": 2.6,
+          "frames": [
+            7,
+            8,
+            7,
+            8
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.6,
+          "end": 3.5,
+          "frames": [
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "coruja_obj",
+      "word": "OWL",
+      "resource": "art/scenes-v3.4/coruja_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.2,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.2,
+          "end": 2,
+          "frames": [
+            4,
+            5,
+            6
+          ],
+          "loop": false
+        },
+        {
+          "start": 2,
+          "end": 2.8,
+          "frames": [
+            7,
+            8,
+            9
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.8,
+          "end": 3.5,
+          "frames": [
+            10,
+            11,
+            9
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "porco_obj",
+      "word": "PIG",
+      "resource": "art/scenes-v3.4/porco_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 0.9,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 0.9,
+          "end": 1.5,
+          "frames": [
+            4,
+            5
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.5,
+          "end": 2.3,
+          "frames": [
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.3,
+          "end": 2.8,
+          "frames": [
+            8,
+            9
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.8,
+          "end": 3.5,
+          "frames": [
+            10,
+            11,
+            10,
+            9
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false
+      ]
+    },
+    {
+      "id": "tigre_obj",
+      "word": "TIGER",
+      "resource": "art/scenes-v3.4/tigre_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 0.9,
+          "frames": [
+            0,
+            1
+          ],
+          "loop": true
+        },
+        {
+          "start": 0.9,
+          "end": 1.3,
+          "frames": [
+            2,
+            3
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.3,
+          "end": 2,
+          "frames": [
+            4,
+            5,
+            6
+          ],
+          "loop": false
+        },
+        {
+          "start": 2,
+          "end": 2.5,
+          "frames": [
+            7,
+            8
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.5,
+          "end": 3.5,
+          "frames": [
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "zebra_obj",
+      "word": "ZEBRA",
+      "resource": "art/scenes-v3.4/zebra_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.3,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.3,
+          "end": 2,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2,
+          "end": 3.25,
+          "frames": [
+            8,
+            9,
+            10,
+            9,
+            10
+          ],
+          "loop": false
+        },
+        {
+          "start": 3.25,
+          "end": 3.5,
+          "frames": [
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "iguana_obj",
+      "word": "IGUANA",
+      "resource": "art/scenes-v3.4/iguana_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.4,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.4,
+          "end": 2,
+          "frames": [
+            4,
+            5
+          ],
+          "loop": false
+        },
+        {
+          "start": 2,
+          "end": 3.5,
+          "frames": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "anta_obj",
+      "word": "TAPIR",
+      "resource": "art/scenes-v3.4/anta_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.1,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.1,
+          "end": 2,
+          "frames": [
+            4,
+            5,
+            6
+          ],
+          "loop": false
+        },
+        {
+          "start": 2,
+          "end": 2.5,
+          "frames": [
+            7,
+            8
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.5,
+          "end": 3.5,
+          "frames": [
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "camelo_obj",
+      "word": "CAMEL",
+      "resource": "art/scenes-v3.4/camelo_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.2,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.2,
+          "end": 2.3,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.3,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "jacare_obj",
+      "word": "ALLIGATOR",
+      "resource": "art/scenes-v3.4/jacare_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.1,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.1,
+          "end": 1.8,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.8,
+          "end": 2.8,
+          "frames": [
+            8,
+            9
+          ],
+          "loop": true
+        },
+        {
+          "start": 2.8,
+          "end": 3.5,
+          "frames": [
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "urso_obj",
+      "word": "BEAR",
+      "resource": "art/scenes-v3.4/urso_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1,
+          "end": 1.25,
+          "frames": [
+            4
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.25,
+          "end": 2.35,
+          "frames": [
+            5,
+            6,
+            7,
+            6
+          ],
+          "loop": true
+        },
+        {
+          "start": 2.35,
+          "end": 2.65,
+          "frames": [
+            8
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.65,
+          "end": 3.5,
+          "frames": [
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "ant_obj",
+      "word": "ANT",
+      "resource": "art/scenes-v3.4/ant_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 0.55,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 0.55,
+          "end": 1.15,
+          "frames": [
+            4,
+            5,
+            6
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.15,
+          "end": 2.65,
+          "frames": [
+            7,
+            8,
+            9
+          ],
+          "loop": true
+        },
+        {
+          "start": 2.65,
+          "end": 3.5,
+          "frames": [
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "bat_obj",
+      "word": "BAT",
+      "resource": "art/scenes-v3.4/bat_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.2,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.2,
+          "end": 1.65,
+          "frames": [
+            4,
+            5,
+            6
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.65,
+          "end": 2.15,
+          "frames": [
+            7,
+            8
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.15,
+          "end": 3.5,
+          "frames": [
+            9,
+            10,
+            11,
+            10,
+            9
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "fox_obj",
+      "word": "FOX",
+      "resource": "art/scenes-v3.4/fox_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 0.6,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 0.6,
+          "end": 1.15,
+          "frames": [
+            4
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.15,
+          "end": 1.35,
+          "frames": [
+            5
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.35,
+          "end": 2,
+          "frames": [
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "crab_obj",
+      "word": "CRAB",
+      "resource": "art/scenes-v3.4/crab_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.45,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.45,
+          "end": 2.15,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.15,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "deer_obj",
+      "word": "DEER",
+      "resource": "art/scenes-v3.4/deer_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 0.35,
+          "frames": [
+            4
+          ],
+          "loop": false
+        },
+        {
+          "start": 0.35,
+          "end": 1.15,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.15,
+          "end": 1.95,
+          "frames": [
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.95,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "fish_obj",
+      "word": "FISH",
+      "resource": "art/scenes-v3.4/fish_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.1,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.1,
+          "end": 2.5,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.5,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "goat_obj",
+      "word": "GOAT",
+      "resource": "art/scenes-v3.4/goat_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 0.8,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 0.8,
+          "end": 2.2,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.2,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "seal_obj",
+      "word": "SEAL",
+      "resource": "art/scenes-v3.4/seal_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1,
+          "end": 1.7,
+          "frames": [
+            4,
+            5
+          ],
+          "loop": false
+        },
+        {
+          "start": 1.7,
+          "end": 2.3,
+          "frames": [
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.3,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "mouse_obj",
+      "word": "MOUSE",
+      "resource": "art/scenes-v3.4/mouse_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 0.5,
+          "frames": [
+            4
+          ],
+          "loop": false
+        },
+        {
+          "start": 0.5,
+          "end": 1.4,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.4,
+          "end": 2.3,
+          "frames": [
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.3,
+          "end": 3.5,
+          "frames": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "id": "snake_obj",
+      "word": "SNAKE",
+      "resource": "art/scenes-v3.4/snake_obj.webp",
+      "duration": 3.5,
+      "timelineBeats": [
+        {
+          "start": 0,
+          "end": 1.15,
+          "frames": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "loop": true
+        },
+        {
+          "start": 1.15,
+          "end": 2.4,
+          "frames": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.4,
+          "end": 2.6,
+          "frames": [
+            8
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.6,
+          "end": 2.73,
+          "frames": [
+            9
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.73,
+          "end": 2.9,
+          "frames": [
+            10
+          ],
+          "loop": false
+        },
+        {
+          "start": 2.9,
+          "end": 3.5,
+          "frames": [
+            11
+          ],
+          "loop": false
+        }
+      ],
+      "frameFlips": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ]
+}

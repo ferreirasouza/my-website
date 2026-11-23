@@ -1,0 +1,16 @@
+{
+  "mode": "disabled",
+  "publisherId": "",
+  "approvals": {
+    "adsense": false,
+    "h5Games": false,
+    "site": false,
+    "productionRelease": false,
+    "childTreatmentConfirmed": false,
+    "nonPersonalizedConfirmed": false
+  },
+  "childTreatment": {
+    "attribute": "",
+    "confirmationReference": ""
+  }
+}

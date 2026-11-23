@@ -1,0 +1,2 @@
+# Preserve static build bytes: the offline manifest verifies SHA-256.
+* -text

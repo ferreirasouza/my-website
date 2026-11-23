@@ -1,0 +1,679 @@
+{
+  "version": "3.3.1",
+  "baseCatalog": "catalog.json",
+  "note": "Recovered catalog is immutable; this overlay contains active editorial revisions and ten complete new animal entries.",
+  "revisions": [
+    {
+      "id": "racoon_obj",
+      "word": "RACCOON",
+      "sprite": "racoon_spr",
+      "art": "art/animals/racoon_obj.png",
+      "sound": "racoon_snd",
+      "slots": [
+        {
+          "letter": "R",
+          "x": 587.7142857142858,
+          "y": 427
+        },
+        {
+          "letter": "A",
+          "x": 717.1428571428571,
+          "y": 427
+        },
+        {
+          "letter": "C",
+          "x": 846.5714285714286,
+          "y": 427
+        },
+        {
+          "letter": "C",
+          "x": 976.0,
+          "y": 427
+        },
+        {
+          "letter": "O",
+          "x": 1105.4285714285713,
+          "y": 427
+        },
+        {
+          "letter": "O",
+          "x": 1234.857142857143,
+          "y": 427
+        },
+        {
+          "letter": "N",
+          "x": 1364.2857142857142,
+          "y": 427
+        }
+      ],
+      "bank": [
+        {
+          "letter": "N",
+          "x": 334.0,
+          "y": 874
+        },
+        {
+          "letter": "R",
+          "x": 554.0,
+          "y": 874
+        },
+        {
+          "letter": "A",
+          "x": 774.0,
+          "y": 874
+        },
+        {
+          "letter": "O",
+          "x": 994.0,
+          "y": 874
+        },
+        {
+          "letter": "C",
+          "x": 1214.0,
+          "y": 874
+        }
+      ]
+    },
+    {
+      "id": "jacare_obj",
+      "word": "ALLIGATOR",
+      "sprite": "jacare_spr",
+      "art": "art/animals/jacare_obj.png",
+      "sound": "alligator_snd",
+      "slots": [
+        {
+          "letter": "A",
+          "x": 573.3333333333333,
+          "y": 427
+        },
+        {
+          "letter": "L",
+          "x": 674.0,
+          "y": 427
+        },
+        {
+          "letter": "L",
+          "x": 774.6666666666666,
+          "y": 427
+        },
+        {
+          "letter": "I",
+          "x": 875.3333333333334,
+          "y": 427
+        },
+        {
+          "letter": "G",
+          "x": 976.0,
+          "y": 427
+        },
+        {
+          "letter": "A",
+          "x": 1076.6666666666667,
+          "y": 427
+        },
+        {
+          "letter": "T",
+          "x": 1177.3333333333333,
+          "y": 427
+        },
+        {
+          "letter": "O",
+          "x": 1278.0,
+          "y": 427
+        },
+        {
+          "letter": "R",
+          "x": 1378.6666666666667,
+          "y": 427
+        }
+      ],
+      "bank": [
+        {
+          "letter": "I",
+          "x": 302.57142857142856,
+          "y": 874
+        },
+        {
+          "letter": "T",
+          "x": 459.7142857142857,
+          "y": 874
+        },
+        {
+          "letter": "L",
+          "x": 616.8571428571429,
+          "y": 874
+        },
+        {
+          "letter": "O",
+          "x": 774.0,
+          "y": 874
+        },
+        {
+          "letter": "A",
+          "x": 931.1428571428571,
+          "y": 874
+        },
+        {
+          "letter": "G",
+          "x": 1088.2857142857142,
+          "y": 874
+        },
+        {
+          "letter": "R",
+          "x": 1245.4285714285716,
+          "y": 874
+        }
+      ]
+    }
+  ],
+  "additions": [
+    {
+      "id": "ant_obj",
+      "word": "ANT",
+      "sprite": "",
+      "art": "art/animals/ant_obj.png",
+      "sound": "ant_snd",
+      "slots": [
+        {
+          "letter": "A",
+          "x": 824.0,
+          "y": 427
+        },
+        {
+          "letter": "N",
+          "x": 976.0,
+          "y": 427
+        },
+        {
+          "letter": "T",
+          "x": 1128.0,
+          "y": 427
+        }
+      ],
+      "bank": [
+        {
+          "letter": "A",
+          "x": 500.0,
+          "y": 874
+        },
+        {
+          "letter": "T",
+          "x": 774.0,
+          "y": 874
+        },
+        {
+          "letter": "N",
+          "x": 1048.0,
+          "y": 874
+        }
+      ]
+    },
+    {
+      "id": "bat_obj",
+      "word": "BAT",
+      "sprite": "",
+      "art": "art/animals/bat_obj.png",
+      "sound": "bat_snd",
+      "slots": [
+        {
+          "letter": "B",
+          "x": 824.0,
+          "y": 427
+        },
+        {
+          "letter": "A",
+          "x": 976.0,
+          "y": 427
+        },
+        {
+          "letter": "T",
+          "x": 1128.0,
+          "y": 427
+        }
+      ],
+      "bank": [
+        {
+          "letter": "A",
+          "x": 500.0,
+          "y": 874
+        },
+        {
+          "letter": "T",
+          "x": 774.0,
+          "y": 874
+        },
+        {
+          "letter": "B",
+          "x": 1048.0,
+          "y": 874
+        }
+      ]
+    },
+    {
+      "id": "fox_obj",
+      "word": "FOX",
+      "sprite": "",
+      "art": "art/animals/fox_obj.png",
+      "sound": "fox_snd",
+      "slots": [
+        {
+          "letter": "F",
+          "x": 824.0,
+          "y": 427
+        },
+        {
+          "letter": "O",
+          "x": 976.0,
+          "y": 427
+        },
+        {
+          "letter": "X",
+          "x": 1128.0,
+          "y": 427
+        }
+      ],
+      "bank": [
+        {
+          "letter": "O",
+          "x": 500.0,
+          "y": 874
+        },
+        {
+          "letter": "F",
+          "x": 774.0,
+          "y": 874
+        },
+        {
+          "letter": "X",
+          "x": 1048.0,
+          "y": 874
+        }
+      ]
+    },
+    {
+      "id": "crab_obj",
+      "word": "CRAB",
+      "sprite": "",
+      "art": "art/animals/crab_obj.png",
+      "sound": "crab_snd",
+      "slots": [
+        {
+          "letter": "C",
+          "x": 748.0,
+          "y": 427
+        },
+        {
+          "letter": "R",
+          "x": 900.0,
+          "y": 427
+        },
+        {
+          "letter": "A",
+          "x": 1052.0,
+          "y": 427
+        },
+        {
+          "letter": "B",
+          "x": 1204.0,
+          "y": 427
+        }
+      ],
+      "bank": [
+        {
+          "letter": "R",
+          "x": 363.0,
+          "y": 874
+        },
+        {
+          "letter": "A",
+          "x": 637.0,
+          "y": 874
+        },
+        {
+          "letter": "C",
+          "x": 911.0,
+          "y": 874
+        },
+        {
+          "letter": "B",
+          "x": 1185.0,
+          "y": 874
+        }
+      ]
+    },
+    {
+      "id": "deer_obj",
+      "word": "DEER",
+      "sprite": "",
+      "art": "art/animals/deer_obj.png",
+      "sound": "deer_snd",
+      "slots": [
+        {
+          "letter": "D",
+          "x": 748.0,
+          "y": 427
+        },
+        {
+          "letter": "E",
+          "x": 900.0,
+          "y": 427
+        },
+        {
+          "letter": "E",
+          "x": 1052.0,
+          "y": 427
+        },
+        {
+          "letter": "R",
+          "x": 1204.0,
+          "y": 427
+        }
+      ],
+      "bank": [
+        {
+          "letter": "E",
+          "x": 500.0,
+          "y": 874
+        },
+        {
+          "letter": "D",
+          "x": 774.0,
+          "y": 874
+        },
+        {
+          "letter": "R",
+          "x": 1048.0,
+          "y": 874
+        }
+      ]
+    },
+    {
+      "id": "fish_obj",
+      "word": "FISH",
+      "sprite": "",
+      "art": "art/animals/fish_obj.png",
+      "sound": "fish_snd",
+      "slots": [
+        {
+          "letter": "F",
+          "x": 748.0,
+          "y": 427
+        },
+        {
+          "letter": "I",
+          "x": 900.0,
+          "y": 427
+        },
+        {
+          "letter": "S",
+          "x": 1052.0,
+          "y": 427
+        },
+        {
+          "letter": "H",
+          "x": 1204.0,
+          "y": 427
+        }
+      ],
+      "bank": [
+        {
+          "letter": "H",
+          "x": 363.0,
+          "y": 874
+        },
+        {
+          "letter": "I",
+          "x": 637.0,
+          "y": 874
+        },
+        {
+          "letter": "F",
+          "x": 911.0,
+          "y": 874
+        },
+        {
+          "letter": "S",
+          "x": 1185.0,
+          "y": 874
+        }
+      ]
+    },
+    {
+      "id": "goat_obj",
+      "word": "GOAT",
+      "sprite": "",
+      "art": "art/animals/goat_obj.png",
+      "sound": "goat_snd",
+      "slots": [
+        {
+          "letter": "G",
+          "x": 748.0,
+          "y": 427
+        },
+        {
+          "letter": "O",
+          "x": 900.0,
+          "y": 427
+        },
+        {
+          "letter": "A",
+          "x": 1052.0,
+          "y": 427
+        },
+        {
+          "letter": "T",
+          "x": 1204.0,
+          "y": 427
+        }
+      ],
+      "bank": [
+        {
+          "letter": "T",
+          "x": 363.0,
+          "y": 874
+        },
+        {
+          "letter": "G",
+          "x": 637.0,
+          "y": 874
+        },
+        {
+          "letter": "A",
+          "x": 911.0,
+          "y": 874
+        },
+        {
+          "letter": "O",
+          "x": 1185.0,
+          "y": 874
+        }
+      ]
+    },
+    {
+      "id": "seal_obj",
+      "word": "SEAL",
+      "sprite": "",
+      "art": "art/animals/seal_obj.png",
+      "sound": "seal_snd",
+      "slots": [
+        {
+          "letter": "S",
+          "x": 748.0,
+          "y": 427
+        },
+        {
+          "letter": "E",
+          "x": 900.0,
+          "y": 427
+        },
+        {
+          "letter": "A",
+          "x": 1052.0,
+          "y": 427
+        },
+        {
+          "letter": "L",
+          "x": 1204.0,
+          "y": 427
+        }
+      ],
+      "bank": [
+        {
+          "letter": "E",
+          "x": 363.0,
+          "y": 874
+        },
+        {
+          "letter": "A",
+          "x": 637.0,
+          "y": 874
+        },
+        {
+          "letter": "S",
+          "x": 911.0,
+          "y": 874
+        },
+        {
+          "letter": "L",
+          "x": 1185.0,
+          "y": 874
+        }
+      ]
+    },
+    {
+      "id": "mouse_obj",
+      "word": "MOUSE",
+      "sprite": "",
+      "art": "art/animals/mouse_obj.png",
+      "sound": "mouse_snd",
+      "slots": [
+        {
+          "letter": "M",
+          "x": 672.0,
+          "y": 427
+        },
+        {
+          "letter": "O",
+          "x": 824.0,
+          "y": 427
+        },
+        {
+          "letter": "U",
+          "x": 976.0,
+          "y": 427
+        },
+        {
+          "letter": "S",
+          "x": 1128.0,
+          "y": 427
+        },
+        {
+          "letter": "E",
+          "x": 1280.0,
+          "y": 427
+        }
+      ],
+      "bank": [
+        {
+          "letter": "U",
+          "x": 334.0,
+          "y": 874
+        },
+        {
+          "letter": "S",
+          "x": 554.0,
+          "y": 874
+        },
+        {
+          "letter": "M",
+          "x": 774.0,
+          "y": 874
+        },
+        {
+          "letter": "O",
+          "x": 994.0,
+          "y": 874
+        },
+        {
+          "letter": "E",
+          "x": 1214.0,
+          "y": 874
+        }
+      ]
+    },
+    {
+      "id": "snake_obj",
+      "word": "SNAKE",
+      "sprite": "",
+      "art": "art/animals/snake_obj.png",
+      "sound": "snake_snd",
+      "slots": [
+        {
+          "letter": "S",
+          "x": 672.0,
+          "y": 427
+        },
+        {
+          "letter": "N",
+          "x": 824.0,
+          "y": 427
+        },
+        {
+          "letter": "A",
+          "x": 976.0,
+          "y": 427
+        },
+        {
+          "letter": "K",
+          "x": 1128.0,
+          "y": 427
+        },
+        {
+          "letter": "E",
+          "x": 1280.0,
+          "y": 427
+        }
+      ],
+      "bank": [
+        {
+          "letter": "S",
+          "x": 334.0,
+          "y": 874
+        },
+        {
+          "letter": "A",
+          "x": 554.0,
+          "y": 874
+        },
+        {
+          "letter": "E",
+          "x": 774.0,
+          "y": 874
+        },
+        {
+          "letter": "K",
+          "x": 994.0,
+          "y": 874
+        },
+        {
+          "letter": "N",
+          "x": 1214.0,
+          "y": 874
+        }
+      ]
+    }
+  ],
+  "sounds": {
+    "ant_snd": "voices/en-US/ant.wav",
+    "bat_snd": "voices/en-US/bat.wav",
+    "fox_snd": "voices/en-US/fox.wav",
+    "crab_snd": "voices/en-US/crab.wav",
+    "deer_snd": "voices/en-US/deer.wav",
+    "fish_snd": "voices/en-US/fish.wav",
+    "goat_snd": "voices/en-US/goat.wav",
+    "seal_snd": "voices/en-US/seal.wav",
+    "mouse_snd": "voices/en-US/mouse.wav",
+    "snake_snd": "voices/en-US/snake.wav",
+    "alligator_snd": "voices/en-US/alligator.wav"
+  }
+}
