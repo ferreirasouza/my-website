@@ -1,0 +1,3484 @@
+{
+  "width": 1280,
+  "height": 720,
+  "fps": 30,
+  "language": "en",
+  "roundSeconds": 26.666666666666668,
+  "errorHealthPenalty": 20.5,
+  "sprites": {
+    "words_spr": {
+      "width": 400,
+      "height": 170,
+      "originX": 200,
+      "originY": 85,
+      "frames": 1
+    },
+    "avestruz_img_spr": {
+      "width": 225,
+      "height": 272,
+      "originX": 112,
+      "originY": 136,
+      "frames": 1
+    },
+    "beija_flor_spr": {
+      "width": 250,
+      "height": 222,
+      "originX": 125,
+      "originY": 111,
+      "frames": 1
+    },
+    "bezerro_img_spr": {
+      "width": 225,
+      "height": 225,
+      "originX": 112,
+      "originY": 112,
+      "frames": 1
+    },
+    "cacau_spr": {
+      "width": 151,
+      "height": 178,
+      "originX": 75,
+      "originY": 89,
+      "frames": 1
+    },
+    "cavalo_spr": {
+      "width": 250,
+      "height": 258,
+      "originX": 125,
+      "originY": 129,
+      "frames": 1
+    },
+    "coelho_spr": {
+      "width": 288,
+      "height": 272,
+      "originX": 144,
+      "originY": 136,
+      "frames": 1
+    },
+    "galo_spr": {
+      "width": 250,
+      "height": 341,
+      "originX": 125,
+      "originY": 170,
+      "frames": 1
+    },
+    "gato_spr": {
+      "width": 250,
+      "height": 201,
+      "originX": 125,
+      "originY": 100,
+      "frames": 1
+    },
+    "girafa_spr": {
+      "width": 151,
+      "height": 277,
+      "originX": 76,
+      "originY": 93,
+      "frames": 1
+    },
+    "hamster_spr": {
+      "width": 275,
+      "height": 285,
+      "originX": 137,
+      "originY": 142,
+      "frames": 1
+    },
+    "lobo_spr": {
+      "width": 250,
+      "height": 213,
+      "originX": 125,
+      "originY": 106,
+      "frames": 1
+    },
+    "ovelha_spr": {
+      "width": 125,
+      "height": 164,
+      "originX": 62,
+      "originY": 82,
+      "frames": 1
+    },
+    "papagaio_spr": {
+      "width": 246,
+      "height": 246,
+      "originX": 123,
+      "originY": 123,
+      "frames": 1
+    },
+    "pato_spr": {
+      "width": 280,
+      "height": 258,
+      "originX": 140,
+      "originY": 129,
+      "frames": 1
+    },
+    "pintinho_spr": {
+      "width": 240,
+      "height": 195,
+      "originX": 120,
+      "originY": 97,
+      "frames": 1
+    },
+    "preguica_spr": {
+      "width": 250,
+      "height": 195,
+      "originX": 125,
+      "originY": 97,
+      "frames": 1
+    },
+    "racoon_spr": {
+      "width": 250,
+      "height": 260,
+      "originX": 125,
+      "originY": 130,
+      "frames": 1
+    },
+    "suricato_spr": {
+      "width": 250,
+      "height": 221,
+      "originX": 125,
+      "originY": 110,
+      "frames": 1
+    },
+    "tatu_spr": {
+      "width": 225,
+      "height": 139,
+      "originX": 112,
+      "originY": 69,
+      "frames": 1
+    },
+    "sapo_spr": {
+      "width": 149,
+      "height": 113,
+      "originX": 74,
+      "originY": 56,
+      "frames": 1
+    },
+    "abelha_spr": {
+      "width": 250,
+      "height": 196,
+      "originX": 125,
+      "originY": 98,
+      "frames": 1
+    },
+    "cangoru_spr": {
+      "width": 250,
+      "height": 176,
+      "originX": 125,
+      "originY": 88,
+      "frames": 1
+    },
+    "porco_espinho_spr": {
+      "width": 250,
+      "height": 172,
+      "originX": 125,
+      "originY": 86,
+      "frames": 1
+    },
+    "coala_spr": {
+      "width": 207,
+      "height": 354,
+      "originX": 103,
+      "originY": 177,
+      "frames": 1
+    },
+    "tartaruga_spr": {
+      "width": 250,
+      "height": 138,
+      "originX": 125,
+      "originY": 69,
+      "frames": 1
+    },
+    "macaco_spr": {
+      "width": 200,
+      "height": 189,
+      "originX": 100,
+      "originY": 94,
+      "frames": 1
+    },
+    "pinguin_spr": {
+      "width": 250,
+      "height": 237,
+      "originX": 125,
+      "originY": 118,
+      "frames": 1
+    },
+    "leao_spr": {
+      "width": 292,
+      "height": 170,
+      "originX": 146,
+      "originY": 85,
+      "frames": 1
+    },
+    "coruja_spr": {
+      "width": 175,
+      "height": 283,
+      "originX": 87,
+      "originY": 141,
+      "frames": 1
+    },
+    "porco_spr": {
+      "width": 169,
+      "height": 132,
+      "originX": 84,
+      "originY": 66,
+      "frames": 1
+    },
+    "zebra_spr": {
+      "width": 142,
+      "height": 148,
+      "originX": 71,
+      "originY": 74,
+      "frames": 1
+    },
+    "tigre_spr": {
+      "width": 219,
+      "height": 151,
+      "originX": 109,
+      "originY": 75,
+      "frames": 1
+    },
+    "iguana_spr": {
+      "width": 200,
+      "height": 125,
+      "originX": 100,
+      "originY": 62,
+      "frames": 1
+    },
+    "anta_spr": {
+      "width": 250,
+      "height": 250,
+      "originX": 125,
+      "originY": 125,
+      "frames": 1
+    },
+    "camelo_spr": {
+      "width": 259,
+      "height": 194,
+      "originX": 129,
+      "originY": 97,
+      "frames": 1
+    },
+    "jacare_spr": {
+      "width": 300,
+      "height": 300,
+      "originX": 150,
+      "originY": 150,
+      "frames": 1
+    },
+    "urso_spr": {
+      "width": 300,
+      "height": 391,
+      "originX": 150,
+      "originY": 195,
+      "frames": 1
+    },
+    "a_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "b_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "c_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "d_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "e_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "f_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "g_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "h_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "i_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "j_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "k_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "l_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "m_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "n_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "o_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "p_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "q_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "r_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "s_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "t_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "u_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "w_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "v_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "x_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "y_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "z_spr": {
+      "width": 178,
+      "height": 180,
+      "originX": 89,
+      "originY": 90,
+      "frames": 1
+    },
+    "sprite34": {
+      "width": 350,
+      "height": 354,
+      "originX": 175,
+      "originY": 177,
+      "frames": 28
+    },
+    "sprite35": {
+      "width": 350,
+      "height": 350,
+      "originX": 0,
+      "originY": 0,
+      "frames": 1
+    },
+    "sprite0": {
+      "width": 102,
+      "height": 86,
+      "originX": 51,
+      "originY": 43,
+      "frames": 23
+    },
+    "negativo_spr": {
+      "width": 250,
+      "height": 250,
+      "originX": 0,
+      "originY": 0,
+      "frames": 41
+    },
+    "sensor_spr": {
+      "width": 780,
+      "height": 32,
+      "originX": 390,
+      "originY": 16,
+      "frames": 1
+    },
+    "errado_spr": {
+      "width": 200,
+      "height": 200,
+      "originX": 0,
+      "originY": 0,
+      "frames": 30
+    },
+    "lousa_spr": {
+      "width": 1280,
+      "height": 720,
+      "originX": 0,
+      "originY": 0,
+      "frames": 1
+    },
+    "sprite54": {
+      "width": 100,
+      "height": 100,
+      "originX": 0,
+      "originY": 0,
+      "frames": 1
+    },
+    "lousa_2_spr": {
+      "width": 1015,
+      "height": 720,
+      "originX": 0,
+      "originY": 0,
+      "frames": 1
+    },
+    "be_spr": {
+      "width": 175,
+      "height": 177,
+      "originX": 87,
+      "originY": 88,
+      "frames": 1
+    },
+    "ro_spr": {
+      "width": 334,
+      "height": 180,
+      "originX": 167,
+      "originY": 90,
+      "frames": 1
+    },
+    "zer_spr": {
+      "width": 253,
+      "height": 130,
+      "originX": 126,
+      "originY": 65,
+      "frames": 1
+    },
+    "ves_spr": {
+      "width": 501,
+      "height": 180,
+      "originX": 250,
+      "originY": 90,
+      "frames": 1
+    },
+    "truz_spr": {
+      "width": 540,
+      "height": 180,
+      "originX": 270,
+      "originY": 90,
+      "frames": 1
+    },
+    "sprite95": {
+      "width": 334,
+      "height": 180,
+      "originX": 167,
+      "originY": 90,
+      "frames": 1
+    },
+    "trich_spr": {
+      "width": 700,
+      "height": 180,
+      "originX": 350,
+      "originY": 90,
+      "frames": 1
+    },
+    "sprite57": {
+      "width": 334,
+      "height": 180,
+      "originX": 167,
+      "originY": 90,
+      "frames": 1
+    },
+    "sprite58": {
+      "width": 618,
+      "height": 180,
+      "originX": 309,
+      "originY": 90,
+      "frames": 1
+    },
+    "sprite98": {
+      "width": 334,
+      "height": 180,
+      "originX": 167,
+      "originY": 90,
+      "frames": 1
+    },
+    "sprite99": {
+      "width": 501,
+      "height": 180,
+      "originX": 250,
+      "originY": 90,
+      "frames": 1
+    },
+    "co_spr": {
+      "width": 334,
+      "height": 180,
+      "originX": 167,
+      "originY": 90,
+      "frames": 1
+    },
+    "lho_spr": {
+      "width": 501,
+      "height": 180,
+      "originX": 250,
+      "originY": 90,
+      "frames": 1
+    },
+    "ne_spr": {
+      "width": 334,
+      "height": 180,
+      "originX": 167,
+      "originY": 90,
+      "frames": 1
+    },
+    "jo_spr": {
+      "width": 334,
+      "height": 180,
+      "originX": 167,
+      "originY": 90,
+      "frames": 1
+    },
+    "avestruz_por_spr": {
+      "width": 543,
+      "height": 100,
+      "originX": 271,
+      "originY": 50,
+      "frames": 1
+    },
+    "bezerro_por_spr": {
+      "width": 400,
+      "height": 100,
+      "originX": 200,
+      "originY": 50,
+      "frames": 1
+    },
+    "cachorro_port_spr": {
+      "width": 614,
+      "height": 100,
+      "originX": 307,
+      "originY": 50,
+      "frames": 1
+    },
+    "coelho_port_spr": {
+      "width": 429,
+      "height": 100,
+      "originX": 214,
+      "originY": 50,
+      "frames": 1
+    },
+    "arara_por_spr": {
+      "width": 400,
+      "height": 100,
+      "originX": 200,
+      "originY": 50,
+      "frames": 1
+    },
+    "galinha_por_spr": {
+      "width": 400,
+      "height": 100,
+      "originX": 200,
+      "originY": 50,
+      "frames": 1
+    },
+    "cachorro_esp_spr": {
+      "width": 343,
+      "height": 100,
+      "originX": 171,
+      "originY": 50,
+      "frames": 1
+    },
+    "coleho_esp_spr": {
+      "width": 543,
+      "height": 100,
+      "originX": 271,
+      "originY": 50,
+      "frames": 1
+    },
+    "logo_spr_site": {
+      "width": 50,
+      "height": 50,
+      "originX": 0,
+      "originY": 0,
+      "frames": 1
+    },
+    "jogar_spr": {
+      "width": 160,
+      "height": 60,
+      "originX": 80,
+      "originY": 30,
+      "frames": 1
+    },
+    "home_spr": {
+      "width": 128,
+      "height": 128,
+      "originX": 0,
+      "originY": 0,
+      "frames": 1
+    },
+    "BOTAO_SILABAS_SPR": {
+      "width": 600,
+      "height": 150,
+      "originX": 286,
+      "originY": 173,
+      "frames": 1
+    },
+    "BOTAO_LETRAS_SPR": {
+      "width": 600,
+      "height": 150,
+      "originX": 300,
+      "originY": 75,
+      "frames": 1
+    },
+    "BOTAO_PALAVRAS_SPR": {
+      "width": 600,
+      "height": 150,
+      "originX": 286,
+      "originY": 173,
+      "frames": 1
+    },
+    "PLAY_SPR": {
+      "width": 160,
+      "height": 60,
+      "originX": 80,
+      "originY": 30,
+      "frames": 58
+    },
+    "titulo_port_spr": {
+      "width": 900,
+      "height": 150,
+      "originX": 450,
+      "originY": 75,
+      "frames": 1
+    },
+    "font_int_32": {
+      "width": 32,
+      "height": 32,
+      "originX": 16,
+      "originY": 16,
+      "frames": 43
+    },
+    "font_int_64": {
+      "width": 64,
+      "height": 64,
+      "originX": 32,
+      "originY": 32,
+      "frames": 43
+    },
+    "apagador_spr": {
+      "width": 340,
+      "height": 255,
+      "originX": 170,
+      "originY": 127,
+      "frames": 1
+    },
+    "voltar_icone_spr": {
+      "width": 100,
+      "height": 80,
+      "originX": 50,
+      "originY": 40,
+      "frames": 1
+    },
+    "sobre_spr": {
+      "width": 100,
+      "height": 100,
+      "originX": 50,
+      "originY": 50,
+      "frames": 1
+    },
+    "voltar_spr": {
+      "width": 128,
+      "height": 128,
+      "originX": 0,
+      "originY": 0,
+      "frames": 1
+    },
+    "sprite74": {
+      "width": 565,
+      "height": 626,
+      "originX": 34,
+      "originY": 34,
+      "frames": 1
+    },
+    "sprite97": {
+      "width": 100,
+      "height": 100,
+      "originX": 50,
+      "originY": 50,
+      "frames": 1
+    },
+    "cacau_grande_spr": {
+      "width": 480,
+      "height": 480,
+      "originX": 0,
+      "originY": 0,
+      "frames": 1
+    },
+    "EM_CONSTRUCAO": {
+      "width": 1000,
+      "height": 600,
+      "originX": 0,
+      "originY": 0,
+      "frames": 1
+    },
+    "sprite90": {
+      "width": 960,
+      "height": 640,
+      "originX": 480,
+      "originY": 320,
+      "frames": 1
+    },
+    "sprite91": {
+      "width": 1280,
+      "height": 720,
+      "originX": 640,
+      "originY": 360,
+      "frames": 1
+    },
+    "sprite93": {
+      "width": 480,
+      "height": 480,
+      "originX": 240,
+      "originY": 240,
+      "frames": 1
+    },
+    "aparece_grande_spr": {
+      "width": 480,
+      "height": 480,
+      "originX": 240,
+      "originY": 240,
+      "frames": 30
+    },
+    "sprite104": {
+      "width": 300,
+      "height": 281,
+      "originX": 150,
+      "originY": 140,
+      "frames": 1
+    },
+    "vogal_spr": {
+      "width": 350,
+      "height": 197,
+      "originX": 175,
+      "originY": 98,
+      "frames": 40
+    },
+    "bola_verde_spr": {
+      "width": 640,
+      "height": 360,
+      "originX": 320,
+      "originY": 180,
+      "frames": 77
+    },
+    "very_good_spr": {
+      "width": 550,
+      "height": 140,
+      "originX": 275,
+      "originY": 70,
+      "frames": 48
+    },
+    "sprite132": {
+      "width": 480,
+      "height": 480,
+      "originX": 240,
+      "originY": 240,
+      "frames": 1
+    },
+    "sprite136": {
+      "width": 900,
+      "height": 400,
+      "originX": 450,
+      "originY": 200,
+      "frames": 1
+    },
+    "tentedenovo_spr": {
+      "width": 900,
+      "height": 245,
+      "originX": 450,
+      "originY": 122,
+      "frames": 1
+    },
+    "sprite141": {
+      "width": 250,
+      "height": 200,
+      "originX": 125,
+      "originY": 100,
+      "frames": 1
+    },
+    "sprite135": {
+      "width": 1050,
+      "height": 200,
+      "originX": 525,
+      "originY": 100,
+      "frames": 10
+    },
+    "fontes_internet": {
+      "width": 64,
+      "height": 64,
+      "originX": 32,
+      "originY": 32,
+      "frames": 43
+    },
+    "sprite123": {
+      "width": 500,
+      "height": 281,
+      "originX": 250,
+      "originY": 140,
+      "frames": 30
+    },
+    "yes_sound_spr": {
+      "width": 256,
+      "height": 256,
+      "originX": 128,
+      "originY": 128,
+      "frames": 1
+    },
+    "no_sound_spr": {
+      "width": 256,
+      "height": 256,
+      "originX": 128,
+      "originY": 128,
+      "frames": 1
+    },
+    "stella_aparece_spr": {
+      "width": 100,
+      "height": 84,
+      "originX": 50,
+      "originY": 42,
+      "frames": 121
+    },
+    "stella_roda_spr": {
+      "width": 102,
+      "height": 86,
+      "originX": 51,
+      "originY": 43,
+      "frames": 23
+    },
+    "stella_roda_colorido_obj": {
+      "width": 102,
+      "height": 86,
+      "originX": 51,
+      "originY": 43,
+      "frames": 46
+    },
+    "stella_cinza_spr": {
+      "width": 102,
+      "height": 86,
+      "originX": 51,
+      "originY": 43,
+      "frames": 1
+    }
+  },
+  "sounds": {
+    "very_good_snd": "sounds/very_good_snd.ogg",
+    "a_snd": "sounds/a_snd.wav",
+    "b_snd": "sounds/b_snd.wav",
+    "c_snd": "sounds/c_snd.wav",
+    "d_snd": "sounds/d_snd.wav",
+    "e_snd": "sounds/e_snd.wav",
+    "f_snd": "sounds/f_snd.wav",
+    "g_snd": "sounds/g_snd.ogg",
+    "h_snd": "sounds/h_snd.wav",
+    "i_snd": "sounds/i_snd.wav",
+    "j_snd": "sounds/j_snd.wav",
+    "k_snd": "sounds/k_snd.wav",
+    "l_snd": "sounds/l_snd.ogg",
+    "m_snd": "sounds/m_snd.ogg",
+    "n_snd": "sounds/n_snd.wav",
+    "o_snd": "sounds/o_snd.wav",
+    "p_snd": "sounds/p_snd.wav",
+    "q_snd": "sounds/q_snd.wav",
+    "r_snd": "sounds/r_snd.wav",
+    "s_snd": "sounds/s_snd.ogg",
+    "t_snd": "sounds/t_snd.ogg",
+    "u_snd": "sounds/u_snd.wav",
+    "v_snd": "sounds/v_snd.wav",
+    "x_snd": "sounds/x_snd.wav",
+    "y_snd": "sounds/y_snd.wav",
+    "z_snd": "sounds/z_snd.wav",
+    "w_snd": "sounds/w_snd.wav",
+    "erro_snd": "sounds/erro_snd.ogg",
+    "poewer_up": "sounds/poewer_up.ogg",
+    "help_stella_snd": "sounds/help_stella_snd.ogg",
+    "abelha_snd": "sounds/abelha_snd.ogg",
+    "avestruz_snd": "sounds/avestruz_snd.wav",
+    "beijaflor_snd": "sounds/beijaflor_snd.wav",
+    "bezerro_snd": "sounds/bezerro_snd.wav",
+    "canguru_snd": "sounds/canguru_snd.wav",
+    "cavalo_snd": "sounds/cavalo_snd.ogg",
+    "coala_snd": "sounds/coala_snd.wav",
+    "coelho_snd": "sounds/coelho_snd.wav",
+    "cool_snd": "sounds/cool_snd.wav",
+    "coruja_snd": "sounds/coruja_snd.wav",
+    "duck_snd": "sounds/duck_snd.ogg",
+    "filhote_snd": "sounds/filhote_snd.wav",
+    "galo_snd": "sounds/galo_snd.wav",
+    "girafa_snd": "sounds/girafa_snd.wav",
+    "hamster_snd": "sounds/hamster_snd.wav",
+    "leoa_snd": "sounds/leoa_snd.wav",
+    "lindo_snd": "sounds/lindo_snd.wav",
+    "lobo_snd": "sounds/lobo_snd.wav",
+    "macaco_snd": "sounds/macaco_snd.wav",
+    "nice_snd": "sounds/nice_snd.wav",
+    "papagaio_snd": "sounds/papagaio_snd.wav",
+    "perfeito_snd": "sounds/perfeito_snd.wav",
+    "pig_snd": "sounds/pig_snd.wav",
+    "pinguin_snd": "sounds/pinguin_snd.wav",
+    "pintinho_snd": "sounds/pintinho_snd.wav",
+    "porcespinho_snd": "sounds/porcespinho_snd.wav",
+    "preguica_snd": "sounds/preguica_snd.wav",
+    "racoon_snd": "sounds/racoon_snd.wav",
+    "sapo_snd": "sounds/sapo_snd.ogg",
+    "suricatro_snd": "sounds/suricatro_snd.ogg",
+    "tartaruga_snd": "sounds/tartaruga_snd.wav",
+    "tatu_snd": "sounds/tatu_snd.wav",
+    "zerbra_snd": "sounds/zerbra_snd.wav",
+    "ovelha_snd": "sounds/ovelha_snd.wav",
+    "gatinho_snd": "sounds/gatinho_snd.ogg",
+    "iguana_snd": "sounds/iguana_snd.ogg",
+    "tiger_snd": "sounds/tiger_snd.ogg",
+    "anta_snd": "sounds/anta_snd.ogg",
+    "camelo_snd": "sounds/camelo_snd.ogg",
+    "elefante_snd": "sounds/elefante_snd.ogg",
+    "jacare_snd": "sounds/jacare_snd.ogg",
+    "urso_snd": "sounds/urso_snd.ogg",
+    "aplaud_snd": "sounds/aplaud_snd.ogg",
+    "criancas_snd": "sounds/criancas_snd.ogg",
+    "fundo_snd": "sounds/fundo_snd.ogg",
+    "relogio_snd": "sounds/relogio_snd.ogg",
+    "tela_final_snd": "sounds/tela_final_snd.ogg",
+    "fogos_snd": "sounds/fogos_snd.wav"
+  },
+  "animals": [
+    {
+      "id": "avestruz_obj",
+      "sprite": "avestruz_img_spr",
+      "word": "OSTRICH",
+      "sound": "avestruz_snd",
+      "slots": [
+        {
+          "letter": "O",
+          "x": 500,
+          "y": 234
+        },
+        {
+          "letter": "S",
+          "x": 620,
+          "y": 224
+        },
+        {
+          "letter": "T",
+          "x": 740,
+          "y": 224
+        },
+        {
+          "letter": "R",
+          "x": 860,
+          "y": 224
+        },
+        {
+          "letter": "I",
+          "x": 980,
+          "y": 224
+        },
+        {
+          "letter": "C",
+          "x": 1100,
+          "y": 224
+        },
+        {
+          "letter": "H",
+          "x": 1220,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "O",
+          "x": 900,
+          "y": 640
+        },
+        {
+          "letter": "S",
+          "x": 800,
+          "y": 640
+        },
+        {
+          "letter": "T",
+          "x": 700,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "I",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "C",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "H",
+          "x": 300,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0303_gml_Object_avestruz_check_obj_Step_0.gml"
+    },
+    {
+      "id": "cachorro_obj",
+      "sprite": "cacau_spr",
+      "word": "PUPPY",
+      "sound": "filhote_snd",
+      "slots": [
+        {
+          "letter": "P",
+          "x": 300,
+          "y": 224
+        },
+        {
+          "letter": "U",
+          "x": 420,
+          "y": 224
+        },
+        {
+          "letter": "P",
+          "x": 540,
+          "y": 224
+        },
+        {
+          "letter": "P",
+          "x": 660,
+          "y": 224
+        },
+        {
+          "letter": "Y",
+          "x": 780,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "P",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "U",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "Y",
+          "x": 300,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0306_gml_Object_cachorro_check_obj_Step_0.gml"
+    },
+    {
+      "id": "coelho_obj",
+      "sprite": "coelho_spr",
+      "word": "RABBIT",
+      "sound": "coelho_snd",
+      "slots": [
+        {
+          "letter": "R",
+          "x": 520,
+          "y": 224
+        },
+        {
+          "letter": "A",
+          "x": 620,
+          "y": 224
+        },
+        {
+          "letter": "B",
+          "x": 740,
+          "y": 224
+        },
+        {
+          "letter": "B",
+          "x": 840,
+          "y": 224
+        },
+        {
+          "letter": "I",
+          "x": 940,
+          "y": 224
+        },
+        {
+          "letter": "T",
+          "x": 1040,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "R",
+          "x": 900,
+          "y": 640
+        },
+        {
+          "letter": "A",
+          "x": 700,
+          "y": 640
+        },
+        {
+          "letter": "B",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "I",
+          "x": 350,
+          "y": 640
+        },
+        {
+          "letter": "T",
+          "x": 250,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0309_gml_Object_coelho_check_obj_Step_0.gml"
+    },
+    {
+      "id": "bezerro_obj",
+      "sprite": "bezerro_img_spr",
+      "word": "CALF",
+      "sound": "bezerro_snd",
+      "slots": [
+        {
+          "letter": "C",
+          "x": 540,
+          "y": 234
+        },
+        {
+          "letter": "A",
+          "x": 660,
+          "y": 224
+        },
+        {
+          "letter": "L",
+          "x": 780,
+          "y": 224
+        },
+        {
+          "letter": "F",
+          "x": 900,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "C",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "A",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "L",
+          "x": 300,
+          "y": 640
+        },
+        {
+          "letter": "F",
+          "x": 400,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0312_gml_Object_bezerro_check_obj_Step_0.gml"
+    },
+    {
+      "id": "gato_obj",
+      "sprite": "gato_spr",
+      "word": "KITTY",
+      "sound": "gatinho_snd",
+      "slots": [
+        {
+          "letter": "K",
+          "x": 440,
+          "y": 234
+        },
+        {
+          "letter": "I",
+          "x": 560,
+          "y": 224
+        },
+        {
+          "letter": "T",
+          "x": 660,
+          "y": 224
+        },
+        {
+          "letter": "T",
+          "x": 780,
+          "y": 224
+        },
+        {
+          "letter": "Y",
+          "x": 900,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "K",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "I",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "T",
+          "x": 300,
+          "y": 640
+        },
+        {
+          "letter": "Y",
+          "x": 400,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0315_gml_Object_gato_check_obj_Step_0.gml"
+    },
+    {
+      "id": "pato_obj",
+      "sprite": "pato_spr",
+      "word": "DUCK",
+      "sound": "duck_snd",
+      "slots": [
+        {
+          "letter": "D",
+          "x": 540,
+          "y": 234
+        },
+        {
+          "letter": "U",
+          "x": 660,
+          "y": 224
+        },
+        {
+          "letter": "C",
+          "x": 780,
+          "y": 224
+        },
+        {
+          "letter": "K",
+          "x": 900,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "D",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "U",
+          "x": 800,
+          "y": 640
+        },
+        {
+          "letter": "C",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "K",
+          "x": 700,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0318_gml_Object_pato_check_obj_Step_0.gml"
+    },
+    {
+      "id": "pintinho_obj",
+      "sprite": "pintinho_spr",
+      "word": "CHICK",
+      "sound": "pintinho_snd",
+      "slots": [
+        {
+          "letter": "C",
+          "x": 540,
+          "y": 234
+        },
+        {
+          "letter": "H",
+          "x": 660,
+          "y": 224
+        },
+        {
+          "letter": "I",
+          "x": 780,
+          "y": 224
+        },
+        {
+          "letter": "C",
+          "x": 900,
+          "y": 224
+        },
+        {
+          "letter": "K",
+          "x": 1020,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "C",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "H",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "I",
+          "x": 300,
+          "y": 640
+        },
+        {
+          "letter": "K",
+          "x": 450,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0321_gml_Object_pintinho_check_obj_Step_0.gml"
+    },
+    {
+      "id": "racoon_obj",
+      "sprite": "racoon_spr",
+      "word": "RACOON",
+      "sound": "racoon_snd",
+      "slots": [
+        {
+          "letter": "R",
+          "x": 540,
+          "y": 234
+        },
+        {
+          "letter": "A",
+          "x": 660,
+          "y": 224
+        },
+        {
+          "letter": "C",
+          "x": 780,
+          "y": 224
+        },
+        {
+          "letter": "O",
+          "x": 900,
+          "y": 224
+        },
+        {
+          "letter": "O",
+          "x": 1020,
+          "y": 224
+        },
+        {
+          "letter": "N",
+          "x": 1140,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "R",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "A",
+          "x": 700,
+          "y": 640
+        },
+        {
+          "letter": "C",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "O",
+          "x": 300,
+          "y": 640
+        },
+        {
+          "letter": "N",
+          "x": 600,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0324_gml_Object_racoon_check_obj_Step_0.gml"
+    },
+    {
+      "id": "hamster_obj",
+      "sprite": "hamster_spr",
+      "word": "HAMSTER",
+      "sound": "hamster_snd",
+      "slots": [
+        {
+          "letter": "H",
+          "x": 500,
+          "y": 234
+        },
+        {
+          "letter": "A",
+          "x": 620,
+          "y": 224
+        },
+        {
+          "letter": "M",
+          "x": 740,
+          "y": 224
+        },
+        {
+          "letter": "S",
+          "x": 860,
+          "y": 224
+        },
+        {
+          "letter": "T",
+          "x": 980,
+          "y": 224
+        },
+        {
+          "letter": "E",
+          "x": 1100,
+          "y": 224
+        },
+        {
+          "letter": "R",
+          "x": 1220,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "H",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "A",
+          "x": 900,
+          "y": 640
+        },
+        {
+          "letter": "M",
+          "x": 800,
+          "y": 640
+        },
+        {
+          "letter": "S",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "T",
+          "x": 700,
+          "y": 640
+        },
+        {
+          "letter": "E",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 400,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0327_gml_Object_hamster_check_obj_Step_0.gml"
+    },
+    {
+      "id": "beijaflor_obj",
+      "sprite": "beija_flor_spr",
+      "word": "HUMMINGBIRD",
+      "sound": "beijaflor_snd",
+      "slots": [
+        {
+          "letter": "H",
+          "x": 210,
+          "y": 234
+        },
+        {
+          "letter": "U",
+          "x": 300,
+          "y": 224
+        },
+        {
+          "letter": "M",
+          "x": 400,
+          "y": 224
+        },
+        {
+          "letter": "M",
+          "x": 500,
+          "y": 224
+        },
+        {
+          "letter": "I",
+          "x": 600,
+          "y": 224
+        },
+        {
+          "letter": "N",
+          "x": 700,
+          "y": 224
+        },
+        {
+          "letter": "G",
+          "x": 800,
+          "y": 224
+        },
+        {
+          "letter": "B",
+          "x": 900,
+          "y": 224
+        },
+        {
+          "letter": "I",
+          "x": 1000,
+          "y": 224
+        },
+        {
+          "letter": "R",
+          "x": 1100,
+          "y": 224
+        },
+        {
+          "letter": "D",
+          "x": 1180,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "H",
+          "x": 1180,
+          "y": 640
+        },
+        {
+          "letter": "U",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "M",
+          "x": 800,
+          "y": 640
+        },
+        {
+          "letter": "N",
+          "x": 900,
+          "y": 640
+        },
+        {
+          "letter": "I",
+          "x": 700,
+          "y": 640
+        },
+        {
+          "letter": "G",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "B",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "D",
+          "x": 300,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0330_gml_Object_beijaflor_check_obj_Step_0.gml"
+    },
+    {
+      "id": "preguica_obj",
+      "sprite": "preguica_spr",
+      "word": "SLOTH",
+      "sound": "preguica_snd",
+      "slots": [
+        {
+          "letter": "S",
+          "x": 540,
+          "y": 234
+        },
+        {
+          "letter": "L",
+          "x": 650,
+          "y": 224
+        },
+        {
+          "letter": "O",
+          "x": 770,
+          "y": 224
+        },
+        {
+          "letter": "T",
+          "x": 900,
+          "y": 224
+        },
+        {
+          "letter": "H",
+          "x": 1030,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "S",
+          "x": 1140,
+          "y": 640
+        },
+        {
+          "letter": "L",
+          "x": 700,
+          "y": 640
+        },
+        {
+          "letter": "O",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "T",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "H",
+          "x": 300,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0333_gml_Object_preguica_check_obj_Step_0.gml"
+    },
+    {
+      "id": "papagaio_obj",
+      "sprite": "papagaio_spr",
+      "word": "PARROT",
+      "sound": "papagaio_snd",
+      "slots": [
+        {
+          "letter": "P",
+          "x": 500,
+          "y": 234
+        },
+        {
+          "letter": "A",
+          "x": 620,
+          "y": 224
+        },
+        {
+          "letter": "R",
+          "x": 740,
+          "y": 224
+        },
+        {
+          "letter": "R",
+          "x": 860,
+          "y": 224
+        },
+        {
+          "letter": "O",
+          "x": 980,
+          "y": 224
+        },
+        {
+          "letter": "T",
+          "x": 1100,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "P",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "A",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "O",
+          "x": 800,
+          "y": 640
+        },
+        {
+          "letter": "T",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 300,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0336_gml_Object_papagaio_check_obj_Step_0.gml"
+    },
+    {
+      "id": "galo_obj",
+      "sprite": "galo_spr",
+      "word": "HEN",
+      "sound": "galo_snd",
+      "slots": [
+        {
+          "letter": "H",
+          "x": 400,
+          "y": 234
+        },
+        {
+          "letter": "E",
+          "x": 520,
+          "y": 224
+        },
+        {
+          "letter": "N",
+          "x": 640,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "H",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "E",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "N",
+          "x": 300,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0339_gml_Object_galo_check_obj_Step_0.gml"
+    },
+    {
+      "id": "tatu_obj",
+      "sprite": "tatu_spr",
+      "word": "ARMADILLO",
+      "sound": "tatu_snd",
+      "slots": [
+        {
+          "letter": "A",
+          "x": 340,
+          "y": 234
+        },
+        {
+          "letter": "R",
+          "x": 440,
+          "y": 224
+        },
+        {
+          "letter": "M",
+          "x": 540,
+          "y": 224
+        },
+        {
+          "letter": "A",
+          "x": 640,
+          "y": 224
+        },
+        {
+          "letter": "D",
+          "x": 740,
+          "y": 224
+        },
+        {
+          "letter": "I",
+          "x": 840,
+          "y": 224
+        },
+        {
+          "letter": "L",
+          "x": 940,
+          "y": 224
+        },
+        {
+          "letter": "L",
+          "x": 1040,
+          "y": 224
+        },
+        {
+          "letter": "O",
+          "x": 1140,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "A",
+          "x": 1100,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "M",
+          "x": 300,
+          "y": 640
+        },
+        {
+          "letter": "D",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "I",
+          "x": 900,
+          "y": 640
+        },
+        {
+          "letter": "L",
+          "x": 800,
+          "y": 640
+        },
+        {
+          "letter": "O",
+          "x": 700,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0342_gml_Object_tatu_check_obj_Step_0.gml"
+    },
+    {
+      "id": "girafa_obj",
+      "sprite": "girafa_spr",
+      "word": "GIRAFFE",
+      "sound": "girafa_snd",
+      "slots": [
+        {
+          "letter": "G",
+          "x": 340,
+          "y": 234
+        },
+        {
+          "letter": "I",
+          "x": 440,
+          "y": 224
+        },
+        {
+          "letter": "R",
+          "x": 540,
+          "y": 224
+        },
+        {
+          "letter": "A",
+          "x": 640,
+          "y": 224
+        },
+        {
+          "letter": "F",
+          "x": 740,
+          "y": 224
+        },
+        {
+          "letter": "F",
+          "x": 840,
+          "y": 224
+        },
+        {
+          "letter": "E",
+          "x": 940,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "G",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "I",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 900,
+          "y": 640
+        },
+        {
+          "letter": "A",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "F",
+          "x": 300,
+          "y": 640
+        },
+        {
+          "letter": "E",
+          "x": 400,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0345_gml_Object_girafa_check_obj_Step_0.gml"
+    },
+    {
+      "id": "suricato_obj",
+      "sprite": "suricato_spr",
+      "word": "MEERKAT",
+      "sound": "suricatro_snd",
+      "slots": [
+        {
+          "letter": "M",
+          "x": 500,
+          "y": 234
+        },
+        {
+          "letter": "E",
+          "x": 620,
+          "y": 224
+        },
+        {
+          "letter": "E",
+          "x": 730,
+          "y": 224
+        },
+        {
+          "letter": "R",
+          "x": 860,
+          "y": 224
+        },
+        {
+          "letter": "K",
+          "x": 980,
+          "y": 224
+        },
+        {
+          "letter": "A",
+          "x": 1100,
+          "y": 224
+        },
+        {
+          "letter": "T",
+          "x": 1220,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "M",
+          "x": 800,
+          "y": 640
+        },
+        {
+          "letter": "E",
+          "x": 900,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "A",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "K",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "T",
+          "x": 300,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0348_gml_Object_suricato_check_obj_Step_0.gml"
+    },
+    {
+      "id": "ovelha_obj",
+      "sprite": "ovelha_spr",
+      "word": "SHEEP",
+      "sound": "ovelha_snd",
+      "slots": [
+        {
+          "letter": "S",
+          "x": 500,
+          "y": 234
+        },
+        {
+          "letter": "H",
+          "x": 620,
+          "y": 224
+        },
+        {
+          "letter": "E",
+          "x": 740,
+          "y": 224
+        },
+        {
+          "letter": "E",
+          "x": 860,
+          "y": 224
+        },
+        {
+          "letter": "P",
+          "x": 980,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "S",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "H",
+          "x": 300,
+          "y": 640
+        },
+        {
+          "letter": "E",
+          "x": 800,
+          "y": 640
+        },
+        {
+          "letter": "P",
+          "x": 500,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0351_gml_Object_ovelha_check_obj_Step_0.gml"
+    },
+    {
+      "id": "lobo_obj",
+      "sprite": "lobo_spr",
+      "word": "WOLF",
+      "sound": "lobo_snd",
+      "slots": [
+        {
+          "letter": "W",
+          "x": 480,
+          "y": 234
+        },
+        {
+          "letter": "O",
+          "x": 620,
+          "y": 224
+        },
+        {
+          "letter": "L",
+          "x": 740,
+          "y": 224
+        },
+        {
+          "letter": "F",
+          "x": 860,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "W",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "O",
+          "x": 300,
+          "y": 640
+        },
+        {
+          "letter": "L",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "F",
+          "x": 400,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0354_gml_Object_lobo_check_obj_Step_0.gml"
+    },
+    {
+      "id": "cavalo_obj",
+      "sprite": "cavalo_spr",
+      "word": "HORSE",
+      "sound": "cavalo_snd",
+      "slots": [
+        {
+          "letter": "H",
+          "x": 500,
+          "y": 234
+        },
+        {
+          "letter": "O",
+          "x": 620,
+          "y": 224
+        },
+        {
+          "letter": "R",
+          "x": 740,
+          "y": 224
+        },
+        {
+          "letter": "S",
+          "x": 860,
+          "y": 224
+        },
+        {
+          "letter": "E",
+          "x": 980,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "H",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "O",
+          "x": 300,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "E",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "S",
+          "x": 600,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0357_gml_Object_cavalo_check_obj_Step_0.gml"
+    },
+    {
+      "id": "sapo_obj",
+      "sprite": "sapo_spr",
+      "word": "FROG",
+      "sound": "sapo_snd",
+      "slots": [
+        {
+          "letter": "F",
+          "x": 400,
+          "y": 234
+        },
+        {
+          "letter": "R",
+          "x": 520,
+          "y": 224
+        },
+        {
+          "letter": "O",
+          "x": 640,
+          "y": 224
+        },
+        {
+          "letter": "G",
+          "x": 780,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "F",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "O",
+          "x": 300,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "G",
+          "x": 600,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0360_gml_Object_sapo_check_obj_Step_0.gml"
+    },
+    {
+      "id": "abelha_obj",
+      "sprite": "abelha_spr",
+      "word": "BEE",
+      "sound": "abelha_snd",
+      "slots": [
+        {
+          "letter": "B",
+          "x": 500,
+          "y": 234
+        },
+        {
+          "letter": "E",
+          "x": 620,
+          "y": 224
+        },
+        {
+          "letter": "E",
+          "x": 740,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "B",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "E",
+          "x": 400,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0363_gml_Object_abelha_check_obj_Step_0.gml"
+    },
+    {
+      "id": "canguru_obj",
+      "sprite": "cangoru_spr",
+      "word": "KANGAROO",
+      "sound": "canguru_snd",
+      "slots": [
+        {
+          "letter": "K",
+          "x": 340,
+          "y": 234
+        },
+        {
+          "letter": "A",
+          "x": 460,
+          "y": 224
+        },
+        {
+          "letter": "N",
+          "x": 580,
+          "y": 224
+        },
+        {
+          "letter": "G",
+          "x": 700,
+          "y": 224
+        },
+        {
+          "letter": "A",
+          "x": 820,
+          "y": 224
+        },
+        {
+          "letter": "R",
+          "x": 940,
+          "y": 224
+        },
+        {
+          "letter": "O",
+          "x": 1060,
+          "y": 224
+        },
+        {
+          "letter": "O",
+          "x": 1180,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "K",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "O",
+          "x": 300,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "A",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "N",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "G",
+          "x": 900,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0366_gml_Object_canguru_check_obj_Step_0.gml"
+    },
+    {
+      "id": "porco_espinho_obj",
+      "sprite": "porco_espinho_spr",
+      "word": "PORCUPINE",
+      "sound": "porcespinho_snd",
+      "slots": [
+        {
+          "letter": "P",
+          "x": 340,
+          "y": 234
+        },
+        {
+          "letter": "O",
+          "x": 440,
+          "y": 224
+        },
+        {
+          "letter": "R",
+          "x": 540,
+          "y": 224
+        },
+        {
+          "letter": "C",
+          "x": 640,
+          "y": 224
+        },
+        {
+          "letter": "U",
+          "x": 740,
+          "y": 224
+        },
+        {
+          "letter": "P",
+          "x": 840,
+          "y": 224
+        },
+        {
+          "letter": "I",
+          "x": 940,
+          "y": 224
+        },
+        {
+          "letter": "N",
+          "x": 1040,
+          "y": 224
+        },
+        {
+          "letter": "E",
+          "x": 1140,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "P",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "O",
+          "x": 300,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "C",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "U",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "I",
+          "x": 700,
+          "y": 640
+        },
+        {
+          "letter": "N",
+          "x": 900,
+          "y": 640
+        },
+        {
+          "letter": "E",
+          "x": 800,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0369_gml_Object_porco_espinho_check_obj_Step_0.gml"
+    },
+    {
+      "id": "koala_obj",
+      "sprite": "coala_spr",
+      "word": "KOALA",
+      "sound": "coala_snd",
+      "slots": [
+        {
+          "letter": "K",
+          "x": 500,
+          "y": 234
+        },
+        {
+          "letter": "O",
+          "x": 620,
+          "y": 224
+        },
+        {
+          "letter": "A",
+          "x": 740,
+          "y": 224
+        },
+        {
+          "letter": "L",
+          "x": 860,
+          "y": 224
+        },
+        {
+          "letter": "A",
+          "x": 980,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "K",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "O",
+          "x": 300,
+          "y": 640
+        },
+        {
+          "letter": "L",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "A",
+          "x": 600,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0372_gml_Object_koala_check_obj_Step_0.gml"
+    },
+    {
+      "id": "tartaruga_obj",
+      "sprite": "tartaruga_spr",
+      "word": "TURTLE",
+      "sound": "tartaruga_snd",
+      "slots": [
+        {
+          "letter": "T",
+          "x": 340,
+          "y": 234
+        },
+        {
+          "letter": "U",
+          "x": 440,
+          "y": 224
+        },
+        {
+          "letter": "R",
+          "x": 540,
+          "y": 224
+        },
+        {
+          "letter": "T",
+          "x": 640,
+          "y": 234
+        },
+        {
+          "letter": "L",
+          "x": 740,
+          "y": 224
+        },
+        {
+          "letter": "E",
+          "x": 840,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "T",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "U",
+          "x": 300,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "E",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "L",
+          "x": 600,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0375_gml_Object_tartaruga_check_obj_Step_0.gml"
+    },
+    {
+      "id": "macaco_obj",
+      "sprite": "macaco_spr",
+      "word": "MONKEY",
+      "sound": "macaco_snd",
+      "slots": [
+        {
+          "letter": "M",
+          "x": 500,
+          "y": 234
+        },
+        {
+          "letter": "O",
+          "x": 620,
+          "y": 224
+        },
+        {
+          "letter": "N",
+          "x": 740,
+          "y": 224
+        },
+        {
+          "letter": "K",
+          "x": 860,
+          "y": 224
+        },
+        {
+          "letter": "E",
+          "x": 980,
+          "y": 224
+        },
+        {
+          "letter": "Y",
+          "x": 1100,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "M",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "O",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "N",
+          "x": 900,
+          "y": 640
+        },
+        {
+          "letter": "E",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "K",
+          "x": 800,
+          "y": 640
+        },
+        {
+          "letter": "Y",
+          "x": 600,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0378_gml_Object_macaco_check_obj_Step_0.gml"
+    },
+    {
+      "id": "pinguin_obj",
+      "sprite": "pinguin_spr",
+      "word": "PENGUIN",
+      "sound": "pinguin_snd",
+      "slots": [
+        {
+          "letter": "P",
+          "x": 400,
+          "y": 234
+        },
+        {
+          "letter": "E",
+          "x": 520,
+          "y": 224
+        },
+        {
+          "letter": "N",
+          "x": 640,
+          "y": 224
+        },
+        {
+          "letter": "G",
+          "x": 760,
+          "y": 224
+        },
+        {
+          "letter": "U",
+          "x": 880,
+          "y": 224
+        },
+        {
+          "letter": "I",
+          "x": 1000,
+          "y": 224
+        },
+        {
+          "letter": "N",
+          "x": 1120,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "P",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "E",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "N",
+          "x": 900,
+          "y": 640
+        },
+        {
+          "letter": "G",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "U",
+          "x": 800,
+          "y": 640
+        },
+        {
+          "letter": "I",
+          "x": 600,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0381_gml_Object_pinguin_check_obj_Step_0.gml"
+    },
+    {
+      "id": "leao_obj",
+      "sprite": "leao_spr",
+      "word": "LION",
+      "sound": "leoa_snd",
+      "slots": [
+        {
+          "letter": "L",
+          "x": 400,
+          "y": 234
+        },
+        {
+          "letter": "I",
+          "x": 520,
+          "y": 224
+        },
+        {
+          "letter": "O",
+          "x": 640,
+          "y": 224
+        },
+        {
+          "letter": "N",
+          "x": 760,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "L",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "I",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "O",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "N",
+          "x": 800,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0384_gml_Object_leao_check_obj_Step_0.gml"
+    },
+    {
+      "id": "coruja_obj",
+      "sprite": "coruja_spr",
+      "word": "OWL",
+      "sound": "coruja_snd",
+      "slots": [
+        {
+          "letter": "O",
+          "x": 600,
+          "y": 234
+        },
+        {
+          "letter": "W",
+          "x": 740,
+          "y": 224
+        },
+        {
+          "letter": "L",
+          "x": 880,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "O",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "W",
+          "x": 800,
+          "y": 640
+        },
+        {
+          "letter": "L",
+          "x": 650,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0387_gml_Object_coruja_check_obj_Step_0.gml"
+    },
+    {
+      "id": "porco_obj",
+      "sprite": "porco_spr",
+      "word": "PIG",
+      "sound": "pig_snd",
+      "slots": [
+        {
+          "letter": "P",
+          "x": 540,
+          "y": 234
+        },
+        {
+          "letter": "I",
+          "x": 660,
+          "y": 224
+        },
+        {
+          "letter": "G",
+          "x": 780,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "P",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "I",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "G",
+          "x": 600,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0390_gml_Object_porco_check_obj_Step_0.gml"
+    },
+    {
+      "id": "tigre_obj",
+      "sprite": "tigre_spr",
+      "word": "TIGER",
+      "sound": "tiger_snd",
+      "slots": [
+        {
+          "letter": "T",
+          "x": 340,
+          "y": 234
+        },
+        {
+          "letter": "I",
+          "x": 440,
+          "y": 224
+        },
+        {
+          "letter": "G",
+          "x": 540,
+          "y": 224
+        },
+        {
+          "letter": "E",
+          "x": 640,
+          "y": 224
+        },
+        {
+          "letter": "R",
+          "x": 740,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "G",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "E",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "T",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "I",
+          "x": 900,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0393_gml_Object_tigre_check_obj_Step_0.gml"
+    },
+    {
+      "id": "zebra_obj",
+      "sprite": "zebra_spr",
+      "word": "ZEBRA",
+      "sound": "zerbra_snd",
+      "slots": [
+        {
+          "letter": "Z",
+          "x": 340,
+          "y": 234
+        },
+        {
+          "letter": "E",
+          "x": 440,
+          "y": 224
+        },
+        {
+          "letter": "B",
+          "x": 540,
+          "y": 224
+        },
+        {
+          "letter": "R",
+          "x": 640,
+          "y": 224
+        },
+        {
+          "letter": "A",
+          "x": 740,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "A",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "E",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "B",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "Z",
+          "x": 900,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0396_gml_Object_zebra_check_obj_Step_0.gml"
+    },
+    {
+      "id": "iguana_obj",
+      "sprite": "iguana_spr",
+      "word": "IGUANA",
+      "sound": "iguana_snd",
+      "slots": [
+        {
+          "letter": "I",
+          "x": 340,
+          "y": 234
+        },
+        {
+          "letter": "G",
+          "x": 460,
+          "y": 224
+        },
+        {
+          "letter": "U",
+          "x": 580,
+          "y": 224
+        },
+        {
+          "letter": "A",
+          "x": 700,
+          "y": 224
+        },
+        {
+          "letter": "N",
+          "x": 820,
+          "y": 224
+        },
+        {
+          "letter": "A",
+          "x": 940,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "U",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "N",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "I",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "G",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "A",
+          "x": 900,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0399_gml_Object_iguana_check_obj_Step_0.gml"
+    },
+    {
+      "id": "anta_obj",
+      "sprite": "anta_spr",
+      "word": "TAPIR",
+      "sound": "anta_snd",
+      "slots": [
+        {
+          "letter": "T",
+          "x": 340,
+          "y": 234
+        },
+        {
+          "letter": "A",
+          "x": 460,
+          "y": 224
+        },
+        {
+          "letter": "P",
+          "x": 580,
+          "y": 224
+        },
+        {
+          "letter": "I",
+          "x": 700,
+          "y": 224
+        },
+        {
+          "letter": "R",
+          "x": 820,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "I",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "T",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "A",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "P",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 900,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0402_gml_Object_anta_check_obj_Step_0.gml"
+    },
+    {
+      "id": "camelo_obj",
+      "sprite": "camelo_spr",
+      "word": "CAMEL",
+      "sound": "camelo_snd",
+      "slots": [
+        {
+          "letter": "C",
+          "x": 340,
+          "y": 234
+        },
+        {
+          "letter": "A",
+          "x": 460,
+          "y": 224
+        },
+        {
+          "letter": "M",
+          "x": 580,
+          "y": 224
+        },
+        {
+          "letter": "E",
+          "x": 700,
+          "y": 224
+        },
+        {
+          "letter": "L",
+          "x": 820,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "L",
+          "x": 600,
+          "y": 640
+        },
+        {
+          "letter": "E",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "M",
+          "x": 500,
+          "y": 640
+        },
+        {
+          "letter": "A",
+          "x": 400,
+          "y": 640
+        },
+        {
+          "letter": "C",
+          "x": 900,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0405_gml_Object_camelo_check_obj_Step_0.gml"
+    },
+    {
+      "id": "jacare_obj",
+      "sprite": "jacare_spr",
+      "word": "CROCODILIAN",
+      "sound": "jacare_snd",
+      "slots": [
+        {
+          "letter": "C",
+          "x": 200,
+          "y": 224
+        },
+        {
+          "letter": "R",
+          "x": 300,
+          "y": 224
+        },
+        {
+          "letter": "O",
+          "x": 400,
+          "y": 224
+        },
+        {
+          "letter": "C",
+          "x": 500,
+          "y": 224
+        },
+        {
+          "letter": "O",
+          "x": 600,
+          "y": 224
+        },
+        {
+          "letter": "D",
+          "x": 700,
+          "y": 224
+        },
+        {
+          "letter": "I",
+          "x": 800,
+          "y": 224
+        },
+        {
+          "letter": "L",
+          "x": 900,
+          "y": 224
+        },
+        {
+          "letter": "I",
+          "x": 1000,
+          "y": 224
+        },
+        {
+          "letter": "A",
+          "x": 1100,
+          "y": 224
+        },
+        {
+          "letter": "N",
+          "x": 1200,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "N",
+          "x": 250,
+          "y": 640
+        },
+        {
+          "letter": "C",
+          "x": 350,
+          "y": 640
+        },
+        {
+          "letter": "A",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 550,
+          "y": 640
+        },
+        {
+          "letter": "I",
+          "x": 650,
+          "y": 640
+        },
+        {
+          "letter": "D",
+          "x": 750,
+          "y": 640
+        },
+        {
+          "letter": "O",
+          "x": 850,
+          "y": 640
+        },
+        {
+          "letter": "L",
+          "x": 950,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0408_gml_Object_jacare_check_obj_Step_0.gml"
+    },
+    {
+      "id": "urso_obj",
+      "sprite": "urso_spr",
+      "word": "BEAR",
+      "sound": "urso_snd",
+      "slots": [
+        {
+          "letter": "B",
+          "x": 500,
+          "y": 224
+        },
+        {
+          "letter": "E",
+          "x": 620,
+          "y": 224
+        },
+        {
+          "letter": "A",
+          "x": 740,
+          "y": 224
+        },
+        {
+          "letter": "R",
+          "x": 860,
+          "y": 224
+        }
+      ],
+      "bank": [
+        {
+          "letter": "A",
+          "x": 1000,
+          "y": 640
+        },
+        {
+          "letter": "R",
+          "x": 550,
+          "y": 640
+        },
+        {
+          "letter": "B",
+          "x": 850,
+          "y": 640
+        },
+        {
+          "letter": "E",
+          "x": 350,
+          "y": 640
+        }
+      ],
+      "source": "01_Codigo_Original/gml/objects/0411_gml_Object_urso_check_obj_Step_0.gml"
+    }
+  ],
+  "groups": {
+    "01": [
+      "abelha_obj",
+      "porco_obj",
+      "galo_obj"
+    ],
+    "01a": [
+      "urso_obj"
+    ],
+    "02": [
+      "pintinho_obj",
+      "bezerro_obj",
+      "gato_obj"
+    ],
+    "03": [
+      "anta_obj",
+      "tartaruga_obj",
+      "macaco_obj"
+    ],
+    "04": [
+      "cachorro_obj",
+      "zebra_obj",
+      "cavalo_obj"
+    ],
+    "05": [
+      "camelo_obj",
+      "koala_obj",
+      "coelho_obj"
+    ],
+    "06": [
+      "iguana_obj",
+      "hamster_obj",
+      "girafa_obj"
+    ],
+    "07": [
+      "leao_obj",
+      "lobo_obj",
+      "ovelha_obj"
+    ],
+    "08": [
+      "pato_obj",
+      "preguica_obj",
+      "papagaio_obj"
+    ],
+    "09": [
+      "racoon_obj",
+      "sapo_obj",
+      "porco_espinho_obj"
+    ],
+    "10": [
+      "tatu_obj",
+      "suricato_obj",
+      "beijaflor_obj"
+    ],
+    "11": [
+      "pinguin_obj",
+      "jacare_obj",
+      "avestruz_obj"
+    ],
+    "12": [
+      "coruja_obj",
+      "cavalo_obj",
+      "jacare_obj"
+    ]
+  }
+}

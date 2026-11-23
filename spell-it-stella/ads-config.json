@@ -1,0 +1,15 @@
+{
+  "mode": "disabled",
+  "provider": "",
+  "publisherId": "",
+  "placementId": "",
+  "approvals": {
+    "publisherAccepted": false,
+    "ownDomainPwa": false,
+    "webRewardedForPreschool": false,
+    "contextualOnly": false,
+    "independentOnboarding": false,
+    "productionRelease": false
+  },
+  "confirmationReference": ""
+}
