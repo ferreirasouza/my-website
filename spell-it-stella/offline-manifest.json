@@ -1,5 +1,5 @@
 {
-  "version": "4d8bf93e51a37575e883",
+  "version": "44ee2c6333e174468906",
   "base": "/spell-it-stella/",
   "entries": [
     {
@@ -563,9 +563,9 @@
       "sha256": "4556f5a8b2520fb51f92ccfed56631fb36d295031ecc16d194a03d2b2eb83f66"
     },
     {
-      "url": "/spell-it-stella/assets/index-CYlAwH6R.js",
-      "bytes": 101963,
-      "sha256": "383932e2bc144ac6497031ec83c72fd899aa448e1059d1fdf5dc966f3d3d7782"
+      "url": "/spell-it-stella/assets/index-DEzcWolO.js",
+      "bytes": 101997,
+      "sha256": "2960dcba57860be7f4a125dc12195d971796a25e709885998bbfa17bb765d503"
     },
     {
       "url": "/spell-it-stella/assets/narration-v3.6.json",
@@ -1225,7 +1225,7 @@
     {
       "url": "/spell-it-stella/index.html",
       "bytes": 1200,
-      "sha256": "758ac1621ba321e763260b1048ab7e9fc7072131194a69e7a0081844d4c44b98"
+      "sha256": "4981edf3e9524fe8f62d0b36010f93c0d7108b179aeb86a278c416d456c750dd"
     },
     {
       "url": "/spell-it-stella/manifest.webmanifest",
@@ -1234,9 +1234,9 @@
     },
     {
       "url": "/spell-it-stella/privacy.html",
-      "bytes": 3712,
-      "sha256": "db533dbb73000ea17811b74a4c16901fccf42a055bb093f233c80bc6b189cfe0"
+      "bytes": 3742,
+      "sha256": "2df29a60ff6ae3c9f62d2b2ef3c62a0ee9ebe49ab413fb0e7df9554f76fe9518"
     }
   ],
-  "bytes": 109086601
+  "bytes": 109086665
 }

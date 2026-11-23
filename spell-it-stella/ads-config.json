@@ -1,16 +1,15 @@
 {
   "mode": "disabled",
+  "provider": "",
   "publisherId": "",
+  "placementId": "",
   "approvals": {
-    "adsense": false,
-    "h5Games": false,
-    "site": false,
-    "productionRelease": false,
-    "childTreatmentConfirmed": false,
-    "nonPersonalizedConfirmed": false
+    "publisherAccepted": false,
+    "ownDomainPwa": false,
+    "webRewardedForPreschool": false,
+    "contextualOnly": false,
+    "independentOnboarding": false,
+    "productionRelease": false
   },
-  "childTreatment": {
-    "attribute": "",
-    "confirmationReference": ""
-  }
+  "confirmationReference": ""
 }
